@@ -13,11 +13,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\yr\\Desktop\\ООП\\OOP-L3\\OOP-L3\\OOP-L3\\OOP-L3.csproj",
+      "projectUniqueName": "C:\\Users\\yr\\Documents\\git\\OOP-L3\\OOP-L3\\OOP-L3.csproj",
       "projectName": "OOP-L3",
-      "projectPath": "C:\\Users\\yr\\Desktop\\ООП\\OOP-L3\\OOP-L3\\OOP-L3\\OOP-L3.csproj",
+      "projectPath": "C:\\Users\\yr\\Documents\\git\\OOP-L3\\OOP-L3\\OOP-L3.csproj",
       "packagesPath": "C:\\Users\\yr\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\yr\\Desktop\\ООП\\OOP-L3\\OOP-L3\\OOP-L3\\obj\\",
+      "outputPath": "C:\\Users\\yr\\Documents\\git\\OOP-L3\\OOP-L3\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\yr\\AppData\\Roaming\\NuGet\\NuGet.Config",

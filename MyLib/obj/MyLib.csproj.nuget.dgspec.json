@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\yr\\Desktop\\ООП\\OOP-L3\\OOP-L3\\MyLib\\MyLib.csproj": {}
+    "C:\\Users\\yr\\Documents\\git\\OOP-L3\\MyLib\\MyLib.csproj": {}
   },
   "projects": {
-    "C:\\Users\\yr\\Desktop\\ООП\\OOP-L3\\OOP-L3\\MyLib\\MyLib.csproj": {
+    "C:\\Users\\yr\\Documents\\git\\OOP-L3\\MyLib\\MyLib.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\yr\\Desktop\\ООП\\OOP-L3\\OOP-L3\\MyLib\\MyLib.csproj",
+        "projectUniqueName": "C:\\Users\\yr\\Documents\\git\\OOP-L3\\MyLib\\MyLib.csproj",
         "projectName": "MyLib",
-        "projectPath": "C:\\Users\\yr\\Desktop\\ООП\\OOP-L3\\OOP-L3\\MyLib\\MyLib.csproj",
+        "projectPath": "C:\\Users\\yr\\Documents\\git\\OOP-L3\\MyLib\\MyLib.csproj",
         "packagesPath": "C:\\Users\\yr\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\yr\\Desktop\\ООП\\OOP-L3\\OOP-L3\\MyLib\\obj\\",
+        "outputPath": "C:\\Users\\yr\\Documents\\git\\OOP-L3\\MyLib\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\yr\\AppData\\Roaming\\NuGet\\NuGet.Config",
@@ -28,8 +28,8 @@
           "net6.0": {
             "targetAlias": "net6.0",
             "projectReferences": {
-              "C:\\Users\\yr\\Desktop\\ООП\\OOP-L3\\OOP-L3\\OOP-L3\\OOP-L3.csproj": {
-                "projectPath": "C:\\Users\\yr\\Desktop\\ООП\\OOP-L3\\OOP-L3\\OOP-L3\\OOP-L3.csproj"
+              "C:\\Users\\yr\\Documents\\git\\OOP-L3\\OOP-L3\\OOP-L3.csproj": {
+                "projectPath": "C:\\Users\\yr\\Documents\\git\\OOP-L3\\OOP-L3\\OOP-L3.csproj"
               }
             }
           }
@@ -62,14 +62,14 @@
         }
       }
     },
-    "C:\\Users\\yr\\Desktop\\ООП\\OOP-L3\\OOP-L3\\OOP-L3\\OOP-L3.csproj": {
+    "C:\\Users\\yr\\Documents\\git\\OOP-L3\\OOP-L3\\OOP-L3.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\yr\\Desktop\\ООП\\OOP-L3\\OOP-L3\\OOP-L3\\OOP-L3.csproj",
+        "projectUniqueName": "C:\\Users\\yr\\Documents\\git\\OOP-L3\\OOP-L3\\OOP-L3.csproj",
         "projectName": "OOP-L3",
-        "projectPath": "C:\\Users\\yr\\Desktop\\ООП\\OOP-L3\\OOP-L3\\OOP-L3\\OOP-L3.csproj",
+        "projectPath": "C:\\Users\\yr\\Documents\\git\\OOP-L3\\OOP-L3\\OOP-L3.csproj",
         "packagesPath": "C:\\Users\\yr\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\yr\\Desktop\\ООП\\OOP-L3\\OOP-L3\\OOP-L3\\obj\\",
+        "outputPath": "C:\\Users\\yr\\Documents\\git\\OOP-L3\\OOP-L3\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\yr\\AppData\\Roaming\\NuGet\\NuGet.Config",
