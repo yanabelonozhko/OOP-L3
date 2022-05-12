@@ -12,7 +12,7 @@ namespace lab3
             var hashes = new Dictionary<string, string>()
             {
                 { "MyLib", "E2F73CECBA6998E927459C4B0531C5FFC6373F482E9F81FFDA1D17D3EF24D76B"},
-                { "SomeName", "E2ничегоCBA6998E9274598217381273981273C5FFC6373F482E9D3EF24D76B"},
+                { "Example", "EXAMPLE_STRING_E2CBA699AWDAW73981273C5FFC6373F482E9D3EF24D76B"},
             };
 
             Person Person1 = new Person("a", 1, "aa");
