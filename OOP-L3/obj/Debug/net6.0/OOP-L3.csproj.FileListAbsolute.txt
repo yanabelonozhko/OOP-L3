@@ -1,0 +1,15 @@
+C:\Users\yr\Desktop\ООП\OOP-L3\OOP-L3\OOP-L3\bin\Debug\net6.0\OOP-L3.exe
+C:\Users\yr\Desktop\ООП\OOP-L3\OOP-L3\OOP-L3\bin\Debug\net6.0\OOP-L3.deps.json
+C:\Users\yr\Desktop\ООП\OOP-L3\OOP-L3\OOP-L3\bin\Debug\net6.0\OOP-L3.runtimeconfig.json
+C:\Users\yr\Desktop\ООП\OOP-L3\OOP-L3\OOP-L3\bin\Debug\net6.0\OOP-L3.dll
+C:\Users\yr\Desktop\ООП\OOP-L3\OOP-L3\OOP-L3\bin\Debug\net6.0\OOP-L3.pdb
+C:\Users\yr\Desktop\ООП\OOP-L3\OOP-L3\OOP-L3\obj\Debug\net6.0\OOP-L3.csproj.AssemblyReference.cache
+C:\Users\yr\Desktop\ООП\OOP-L3\OOP-L3\OOP-L3\obj\Debug\net6.0\OOP-L3.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\yr\Desktop\ООП\OOP-L3\OOP-L3\OOP-L3\obj\Debug\net6.0\OOP-L3.AssemblyInfoInputs.cache
+C:\Users\yr\Desktop\ООП\OOP-L3\OOP-L3\OOP-L3\obj\Debug\net6.0\OOP-L3.AssemblyInfo.cs
+C:\Users\yr\Desktop\ООП\OOP-L3\OOP-L3\OOP-L3\obj\Debug\net6.0\OOP-L3.csproj.CoreCompileInputs.cache
+C:\Users\yr\Desktop\ООП\OOP-L3\OOP-L3\OOP-L3\obj\Debug\net6.0\OOP-L3.dll
+C:\Users\yr\Desktop\ООП\OOP-L3\OOP-L3\OOP-L3\obj\Debug\net6.0\refint\OOP-L3.dll
+C:\Users\yr\Desktop\ООП\OOP-L3\OOP-L3\OOP-L3\obj\Debug\net6.0\OOP-L3.pdb
+C:\Users\yr\Desktop\ООП\OOP-L3\OOP-L3\OOP-L3\obj\Debug\net6.0\OOP-L3.genruntimeconfig.cache
+C:\Users\yr\Desktop\ООП\OOP-L3\OOP-L3\OOP-L3\obj\Debug\net6.0\ref\OOP-L3.dll
