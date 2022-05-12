@@ -12,7 +12,7 @@ namespace lab3
             var hashes = new Dictionary<string, string>()
             {
                 { "MyLib", "E2F73CECBA6998E927459C4B0531C5FFC6373F482E9F81FFDA1D17D3EF24D76B"},
-                { "MyLib2", "E2ничегоCBA6998E9274598217381273981273C5FFC6373F482E9D3EF24D76B"},
+                { "SomeName", "E2ничегоCBA6998E9274598217381273981273C5FFC6373F482E9D3EF24D76B"},
             };
 
             Person Person1 = new Person("a", 1, "aa");
@@ -23,7 +23,7 @@ namespace lab3
             string path = NameOfDll + ".dll";
             if (File.Exists(path))
             {
-                if (Directory.Exists(NameOfDll)) {
+                if (hashes.ContainsKey(NameOfDll)) {
                     string hash_vrft = hashes[NameOfDll];
                     string hash_temp = GetHash(path);
                     if (hash_temp == hash_vrft)
@@ -32,12 +32,12 @@ namespace lab3
                     }
                     else
                     {
-                        Console.WriteLine("не могу я подключить вашу dll извините");
+                        Console.WriteLine("Подключаемый файл не соответвует контрольной сумме");
                     }
                 }
                 else
                 {
-                    Console.WriteLine("не могу я подключить вашу dll извините");
+                    Console.WriteLine("Такого файла нет в списке разрешённых");
                 }
             }
             else { 
