@@ -32,7 +32,7 @@ namespace lab3
                     }
                     else
                     {
-                        Console.WriteLine("Подключаемый файл не соответвует контрольной сумме");
+                        Console.WriteLine("Подключаемый файл не соответвует требованиям");
                     }
                 }
                 else
@@ -41,19 +41,18 @@ namespace lab3
                 }
             }
             else { 
-                Console.WriteLine("такого файла нету вообще"); 
+                Console.WriteLine("такого файла не существует"); 
             }
 
             void AddDll(string path_to_file)
             {
-                
-                    Assembly asm = Assembly.LoadFrom(path);
+                    Assembly asm = Assembly.LoadFrom(path_to_file);
                     Type t = asm.GetType("MyLib.Student");
                     if (t is not null)
                     {
                         ConstructorInfo[] constructorInfo = t.GetConstructors();
-                        object obj = constructorInfo[0].Invoke(new object[] { "c", 3, "cc", "ccc" });
-                        MethodInfo print = t.GetMethod("PrintInfo", BindingFlags.Instance | BindingFlags.Public);
+                        object obj = constructorInfo[0].Invoke(new object[]{ "c", 3, "cc", "ccc" });
+                        MethodInfo print = t.GetMethod("PrintInfo");
                         object result = print.Invoke(obj, new object[] { });
                     }
                 
@@ -64,7 +63,9 @@ namespace lab3
                 {
                     var sha = new SHA256Managed();
                     byte[] hash = sha.ComputeHash(stream);
-                    return BitConverter.ToString(hash).Replace("-", String.Empty);
+                    string temp = BitConverter.ToString(hash); 
+                    temp = temp.Replace("-", String.Empty);
+                    return temp;
                 }
             }
 
